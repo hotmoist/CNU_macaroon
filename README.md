@@ -1,2 +1,5 @@
-# CNU_macarron
-Enroll bot for CNU
+## CNU_macaroon
+
+Enroll bot for CNU class enrollment
+
+
