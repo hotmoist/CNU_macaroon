@@ -8,6 +8,6 @@ Enroll bot for CNU class enrollment
 
 - openCV 사용
 - template matching 이용하여 작동함
-** 수강 신청 망할때만 사용
+- **수강 신청 망할때만 사용**
 
 > No Coffee No Coding
