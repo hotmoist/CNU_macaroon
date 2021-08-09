@@ -88,9 +88,13 @@ def success_check(target):
 
 
 if __name__ == '__main__':
+
     run_gui()
     print(course_num_1)
     print(course_num_2)
+
+    if course_num_1 == -1 or course_num_2 == -1:
+        exit(0)
 
     # targets val
     target_num_1 = cv.imread('target_1.PNG', cv.IMREAD_COLOR)
