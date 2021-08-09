@@ -20,6 +20,10 @@ Enroll bot for CNU class enrollment
 - 크롬 페이지 비율 90%
 - **수강 신청 망할때만 사용**
 
-
+## 필요한 패키지 (라이브러리)
+- opencv-python (ver 4.5.3.56)
+- numpy (ver 1.21.1)
+- pyautogui (ver 0.9.53
+- keyboard (ver 0.13.5)
 
 > No Coffee No Coding
