@@ -20,4 +20,6 @@ Enroll bot for CNU class enrollment
 - 크롬 페이지 비율 90%
 - **수강 신청 망할때만 사용**
 
+
+
 > No Coffee No Coding
