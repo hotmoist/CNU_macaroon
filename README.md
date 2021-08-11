@@ -29,5 +29,6 @@ Enroll bot for CNU class enrollment
 ## __피드백 언제나 환영__
 
 > 수강 신청 예외사항 (기존 강의 취소, 다른 강의 수강 등등...) 책임지지 않습니다 
+> 
 > No Coffee No Coding
 
